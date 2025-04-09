@@ -20,3 +20,10 @@ Tools & Technologies Used
 
 - MATLAB  
 - Simulink  
+
+
+Author
+Tushar Mongia
+B.E. Aerospace Engineering, RV College of Engineering
+GitHub: @Tushar1128
+
